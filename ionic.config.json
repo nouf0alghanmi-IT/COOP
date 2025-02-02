@@ -1,0 +1,7 @@
+{
+  "name": "Metropolitsn Muesum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
